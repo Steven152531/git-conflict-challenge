@@ -1,3 +1,3 @@
-# git-conflict
+# git-conflict-remote
 
 modification du fichier
